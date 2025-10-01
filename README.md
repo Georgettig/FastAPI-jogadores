@@ -33,9 +33,11 @@ Este projeto é uma API REST construída com **FastAPI** e **MongoDB**, implemen
   python -m venv venv
   venv\Scripts\activate      # Windows  
 
+
 3. Instale as dependências:
   ```bash
   pip install -r requirements.txt  
+
 
 4. Rode a aplicação:
   ```bash
