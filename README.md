@@ -26,21 +26,10 @@ Este projeto é uma API REST construída com **FastAPI** e **MongoDB**, implemen
 1. Clone este repositório:
    ```bash
    git clone https://github.com/SEU_USUARIO/fastapi-mongodb-crud.git
-   cd fastapi-mongodb-crud  
-   
-2. Crie e ative um ambiente virtual:
-  ```bash
-  python -m venv venv
-  venv\Scripts\activate      # Windows  
-
-
-3. Instale as dependências:
-  ```bash
-  pip install -r requirements.txt  
-
-
-4. Rode a aplicação:
-  ```bash
-  uvicorn main:app --reload
+   cd fastapi-mongodb-crud
+   python -m venv venv
+   venv\Scripts\activate      # Windows
+   pip install -r requirements.txt
+   uvicorn main:app --reload
 
 
