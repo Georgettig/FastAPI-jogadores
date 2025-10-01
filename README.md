@@ -25,7 +25,7 @@ Este projeto é uma API REST construída com **FastAPI** e **MongoDB**, implemen
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/fastapi-mongodb-crud.git
+   git clone https://github.com/Georgettig/FastAPI-jogadores.git
    cd fastapi-mongodb-crud
    python -m venv venv
    venv\Scripts\activate      # Windows
