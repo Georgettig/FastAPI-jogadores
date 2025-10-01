@@ -1,6 +1,6 @@
 # FastAPI + MongoDB - CRUD de Jogadores ⚽
 
-Este projeto é uma API REST construída com **FastAPI** e **MongoDB**, implementando um CRUD completo para gerenciamento de jogadores.
+Este projeto é uma API REST construída com **FastAPI** e **MongoDB**, implementando um CRUD completo para gerenciamento de jogadores, permitindo a listagem, busca, cadastro, atualização e remoção de dados.
 
 ---
 
