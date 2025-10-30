@@ -28,7 +28,7 @@ Este projeto é uma API REST construída com **FastAPI** e **MongoDB**, implemen
    git clone https://github.com/Georgettig/FastAPI-jogadores.git
    cd fastapi-mongodb-crud
    python -m venv venv
-   venv\Scripts\activate      # Windows
+   .\.venv\Scripts\activate      # Windows
    pip install -r requirements.txt
    uvicorn main:app --reload
 
